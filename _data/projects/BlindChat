@@ -1,0 +1,10 @@
+name: BlindChat
+desc: 
+site: https://github.com/mayukh18/BlindChat
+tags:
+- python
+- messenger-bot
+- flask
+upforgrabs:
+  name: beginner
+  link: https://github.com/mayukh18/BlindChat/labels/beginner
